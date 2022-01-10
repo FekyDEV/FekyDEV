@@ -15,7 +15,8 @@
 
 | Project        | URL           | Description |
 | ------------- |:-------------:|:--------------:|
-| Report Bot|[Discord](https://discord.gg/sKKEyUn)|Discord Bot with Reporting system and more!|
+| Report Bot|[Discord](https://discord.gg/sKKEyUn)| Discord Bot with Reporting system and more!|
+| RVRP |[Discord](https://discord.gg/RTDwhGRNej)| Fivem RolePlay server - CZ/SK!|
 <hr width = "500vw">
 
   
