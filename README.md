@@ -30,4 +30,4 @@
 
 <hr width = "500vw">
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FekyDEV&layout=radical)](https://github.com/fekyDEV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FekyDEV&layout=compact)](https://github.com/fekyDEV/github-readme-stats)
