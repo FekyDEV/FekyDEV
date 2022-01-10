@@ -2,7 +2,7 @@
 
 <hr width = "300vw">
 
-<h3 align="center">Hello, I'm FekyDEV</h3>
+<h3 align="center">Hello, I'm FekyDEV !</h3>
   
 <hr width = "300vw">
 
@@ -30,4 +30,4 @@
 
 <hr width = "500vw">
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FekyDEV&layout=compact)](https://github.com/fekyDEV/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FekyDEV&layout=radical)](https://github.com/fekyDEV/github-readme-stats)
