@@ -22,10 +22,12 @@
  <h3>📕 Stats<h3>
 
 <hr width = "500vw">
+   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FekyDEV&show_icons=true&theme=radical)
 
    
  <h3>🌍 Languages<h3>
 
 <hr width = "500vw">
+   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FekyDEV&layout=compact)](https://github.com/fekyDEV/github-readme-stats)
